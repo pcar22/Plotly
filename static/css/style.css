@@ -1,0 +1,19 @@
+.jumbotron {
+
+    background-image: url("../../images/bacteria.png");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(233, 238, 226);
+}
+
+.bel {
+    color: rgb(218, 229, 238);
+}
+
+p {
+    font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+  }
+  
